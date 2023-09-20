@@ -10,3 +10,5 @@
   · 开发的目标暂不明朗，目前预定的目标为 NAT类型测试， Ping测试， SuperNode订阅列表， 通过SupreNode强制代理，端口映射规则。预计实现全部配置均可通过base64编码的json数据导入导出，暂时画这些饼。
 
   · 有空摸鱼就写点..
+  
+![O6~EE0(W4QTKOYKD51)C~YW](https://github.com/AliveGh0st/N2N-GUI/assets/21671021/e32167ca-4452-4267-bdf4-90a8b3cf1c38)
